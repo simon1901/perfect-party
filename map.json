@@ -1112,12 +1112,94 @@
          "tilewidth":32
         }, 
         {
+         "columns":16,
          "firstgid":321,
-         "source":"Modern1.tsx"
+         "image":"..\/..\/..\/Downloads\/dbz1aoz-af48e951-df46-49da-873c-a85341406b30.png",
+         "imageheight":512,
+         "imagewidth":512,
+         "margin":0,
+         "name":"Modern1",
+         "spacing":0,
+         "tilecount":256,
+         "tileheight":32,
+         "tiles":[
+                {
+                 "id":118,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":false
+                        }]
+                }, 
+                {
+                 "id":134,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":151,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":155,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":167,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":168,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":171,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }],
+         "tilewidth":32
         }, 
         {
+         "columns":18,
          "firstgid":577,
-         "source":"Getr\u00e4nke.tsx"
+         "image":"..\/..\/..\/Downloads\/Getr\u00e4nke etc..png",
+         "imageheight":768,
+         "imagewidth":576,
+         "margin":0,
+         "name":"Getr\u00e4nke",
+         "spacing":0,
+         "tilecount":432,
+         "tileheight":32,
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
